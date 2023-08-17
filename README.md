@@ -1,1 +1,1 @@
-# bd-controle-series-asssitidas
+Projeto em que foi criado modelagem de dados em SGBDs visa representar um contexto do mundo real, em outras palavras, o mini-mundo. Dessa forma, a proposta deste Lab consiste na modelagem de dados para o cenário de controle de séries assistidas pelo usuário.
